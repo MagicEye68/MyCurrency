@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_add_favorites"
+        android:icon="@drawable/ic_stella_vuota"
+        app:showAsAction="ifRoom"
+        android:title="@string/aggiungi_preferiti"/>
+
+    <item
+        android:id="@+id/action_view_favorites"
+        android:icon="@drawable/ic_lista"
+        app:showAsAction="ifRoom"
+        android:title="@string/visualizza_preferiti" />
+
+</menu>
