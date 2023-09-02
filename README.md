@@ -33,5 +33,5 @@
 Per utilizzare MyCurrency, è necessario disporre di una connessione internet. L'applicazione è disponibile per dispositivi Android.
 
 *Nota*: Si tenga presente che l'accuratezza dei tassi di cambio forniti può variare in base alle fonti utilizzate dall'applicazione.
- - (API utilizzata: [openexchangerates.org](openexchangerates.org)).
+ - (API utilizzata: [openexchangerates.org](https://openexchangerates.org)).
 
