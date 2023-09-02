@@ -24,12 +24,14 @@
 - Cliccando sull'icona a forma di stella posta in alto a destra, è possibile aggiungere la coppia di valute selezionate ai preferiti, che saranno visualizzabili nell'elenco apposito.
 - Cliccando sulla freccetta situata a destra delle coppie di valute presenti nell'elenco dei preferiti, è possibile esportare direttamente le due valute all'interno del prompt di calcolo.
 - Per rimuovere una coppia di valute dalla lista dei preferiti, basta cliccare nuovamente sull'icona a forma di stella.
-  Stella piena = coppia presente nei preferiti.
-  Stella vuota = coppia non presente nei preferiti.
+  - Stella piena = coppia presente nei preferiti.
+  - Stella vuota = coppia non presente nei preferiti.
+
   
 ## Requisiti
 
 Per utilizzare MyCurrency, è necessario disporre di una connessione internet. L'applicazione è disponibile per dispositivi Android.
 
-*Nota*: Si tenga presente che l'accuratezza dei tassi di cambio forniti può variare in base alle fonti utilizzate dall'applicazione (API utilizzata: [openexchangerates.org](openexchangerates.org)).
+*Nota*: Si tenga presente che l'accuratezza dei tassi di cambio forniti può variare in base alle fonti utilizzate dall'applicazione.
+ - (API utilizzata: [openexchangerates.org](openexchangerates.org)).
 
